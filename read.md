@@ -1,2 +1,2 @@
 # git course
-i am learning git frfom youtube
+i am learning git from youtube
